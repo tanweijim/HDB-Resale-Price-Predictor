@@ -29,7 +29,7 @@ After experimenting with various models, the following top three models were cho
 
 XGBoost is selected as the preferred model due to its balance between speed, accuracy, and reliability. It consistently outperformed other models without overfitting. More details on the modelling and the features selected can be found [here](https://github.com/tanweijim/HDB-Resale-Price-Predictor/blob/main/notebook-datasprint.ipynb).
 ## **Key Insights**
-Based on XGBoost, 
+Based on results by XGBoost, 
 1. Flat Type: The larger the room type, the higher the price.
 2. Floor level: The higher the floor level, the higher the price. Higher-level units generally offer unobstructed views and may benefit from improved ventilation due to stronger wind currents.
 3. Certain towns: Bishan commanded a higher price, likely due to its proximity to top schools. Woodlands also featured strongly, likely due to its unique accessibility to Johor Bahru.
