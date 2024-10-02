@@ -22,7 +22,7 @@ The Singapore real estate market is rapidly evolving, with increased competition
 ## **Machine Learning Models**
 After experimenting with various models, the following top three models were chosen:
 | Model       | Train RMSE  | Test RMSE   |  Train R²   | Test R²   | Model Run Time (s)   |
-| ----------- | ----------- | ----------- |  ----------- | ----------- | ----------- |
+| ----------- | :----: | :----: |  :----: | :----: | :----: |
 | Random Forest Regressor | 16,789      | 26,227       | 0.986       | 0.966       | 52       |
 | Extra Trees Regressor   | 14,894       | 26,421       | 0.989       | 0.966       | 56     |
 | **XGBoost**   | **25,166**        | **27,074**       | **0.956**       | **0.964**      | **13**       |
