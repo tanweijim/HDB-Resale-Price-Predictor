@@ -4,14 +4,14 @@ This project aims to revolutionize the Singapore property market by providing a 
 ## **Problem Statement**
 The Singapore real estate market is rapidly evolving, with increased competition from online platforms and disruptive business models. To stay ahead, property agents need more than just experience; they need data-driven insights. The HDB Resale Price Predictor Tool addresses this need by leveraging historical data and machine learning algorithms to predict future trends and prices in the HDB resale market.
 ## **Key Objectives**
-1. **Empower Property Agents -** Equip agents with valuable data insights on HDB resale prices to enhance their decision-making and negotiation skills.
-2. **Predict Pricing Trends -** Utilize advanced machine learning models to accurately forecast future resale price movements, enabling agents to anticipate market changes and advise clients accordingly.
-3. **Increase Client Satisfaction -** Provide property agents with a powerful tool to guide clients on pricing strategies, maximizing transaction value and building long-lasting relationships.
-4. **Identify Key Market Factors -** Uncover and highlight the most influential factors that drive HDB resale prices, enabling agents to tailor their advice to specific client needs and preferences.
-5. **Mitigate Risk -** Assist agents in making informed decisions by providing data-backed assessments of potential risks and uncertainties in the HDB resale market.
-6. **Optimize Investment Returns -** Empower property investors to make data-driven decisions that maximize their returns and minimize their risks.
-7. **Stay Ahead of the Competition -** Provide agents with a competitive edge by offering a unique and valuable service that differentiates them from their peers.
-8. **Foster Data-Driven Culture -** Promote a data-centric approach to real estate decision-making within the industry, leading to more informed and effective practices.
+1. **Empower property agents -** Equip agents with valuable data insights on HDB resale prices to enhance their decision-making and negotiation skills.
+2. **Predict pricing trends -** Utilize advanced machine learning models to accurately forecast future resale price movements, enabling agents to anticipate market changes and advise clients accordingly.
+3. **Increase client satisfaction -** Provide property agents with a powerful tool to guide clients on pricing strategies, maximizing transaction value and building long-lasting relationships.
+4. **Identify key market factors -** Uncover and highlight the most influential factors that drive HDB resale prices, enabling agents to tailor their advice to specific client needs and preferences.
+5. **Mitigate risk -** Assist agents in making informed decisions by providing data-backed assessments of potential risks and uncertainties in the HDB resale market.
+6. **Optimize investment returns -** Empower property investors to make data-driven decisions that maximize their returns and minimize their risks.
+7. **Stay ahead of the competition -** Provide agents with a competitive edge by offering a unique and valuable service that differentiates them from their peers.
+8. **Foster data-driven culture -** Promote a data-centric approach to real estate decision-making within the industry, leading to more informed and effective practices.
 ## Exploratory Data Analysis
 (see slides / Tableau stories for charts)
 - HDB resale prices saw a general upward trend over the past decade, with fluctuations influenced by various factors such as economic health of Singapore (i.e. interest rates, GDP growth, job market conditions, etc.), government policies (i.e. cooling measures, subsidies, incentives, etc.), supply/demand, and global events (e.g. pandemic, wars, etc.)
